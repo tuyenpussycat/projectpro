@@ -1,0 +1,7 @@
+.albumThumbnail img {
+    border-radius: 0.5em;
+    width: 200px;
+}
+.albumName {
+    font-weight: bold;
+}
